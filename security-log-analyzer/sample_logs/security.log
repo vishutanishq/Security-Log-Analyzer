@@ -1,0 +1,8 @@
+2026-10-09 10:00:01 Information: Authentication service started
+2026-10-09 10:01:10 Failed login for user test from 203.0.113.25
+2026-10-09 10:01:20 Failed login for user test from 203.0.113.25
+2026-10-09 10:01:30 Failed login for user admin from 203.0.113.25
+2026-10-09 10:01:40 Failed login for user guest from 203.0.113.25
+2026-10-09 10:02:00 LOGIN_SUCCESS for user demo from 192.0.2.10
+2026-10-09 10:03:00 Warning: retrying authentication service
+2026-10-09 10:04:00 Error: sample service failure

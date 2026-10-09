@@ -1,0 +1,4 @@
+2026-10-09 10:00:01 Information: service started
+2026-10-09 10:01:00 Warning: disk space is getting low
+2026-10-09 10:02:00 Error: sample service failure
+2026-10-09 10:03:00 Information: scheduled task completed
